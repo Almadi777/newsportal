@@ -1,0 +1,16 @@
+{
+    "name": "omen/newsportal",
+    "autoload": {
+        "psr-4": {
+            "Omen\\Newsportal\\": "src/",
+            "App": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Madi",
+            "email": "tabynbay.madi@mail.ru"
+        }
+    ],
+    "require": {}
+}
